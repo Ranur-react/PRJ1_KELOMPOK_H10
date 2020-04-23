@@ -153,6 +153,11 @@ div {
   width: 10%;
 }
 
+.img {
+  width: 500px;
+  height: 500px;
+}
+
 .benefit-icon {
   position: relative;
 }
