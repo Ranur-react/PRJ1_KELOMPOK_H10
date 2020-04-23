@@ -127,7 +127,38 @@ div {
 .btn:hover {
   opacity: 1;
 }
+
 .btn:active {
   opacity: 0.8;
 }
 /*end wrapper*/
+
+.content {
+  padding-bottom: 80px;
+  padding-left: 5%;
+  padding-right: 5%;
+  background-color: #f7f7f7;
+  text-align: center;
+}
+
+.heading {
+  padding-top: 80px;
+  padding-bottom: 50px;
+  color: #5f5d60;
+}
+
+.benefit {
+  float: left;
+  width: 25%;
+}
+
+.benefit-icon {
+  position: relative;
+}
+
+.benefit-icon p {
+  position: absolute;
+  top: 44%;
+  width: 100%;
+  color: white;
+}
