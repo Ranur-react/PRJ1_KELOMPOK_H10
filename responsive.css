@@ -21,7 +21,7 @@
 /* Untuk Smartphone */
 @media all and (max-width: 670px) {
   .lesson {
-    width: 100%;
+    width: 50%;
   }
 
   .header-right {
@@ -49,7 +49,7 @@
     line-height: 36px;
   }
   
-    .top-wrapper h2 {
+  .top-wrapper h2 {
     font-size: 20px;
   }
 
