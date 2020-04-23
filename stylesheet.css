@@ -50,10 +50,11 @@ div {
   color: white;
   padding: 0 px;
   opacity: 0.9;
+  
 }
 .header-logo img{
   width: auto;
-  height: 100px;
+  height: 38px;
 
 }
 .header-title{
