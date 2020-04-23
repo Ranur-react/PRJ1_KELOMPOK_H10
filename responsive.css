@@ -21,19 +21,11 @@
 /* Untuk Smartphone */
 @media all and (max-width: 670px) {
   .benefit {
-    width: 15%;
+    width: 5%;
   }
 
   .header-right {
     display: none;
-  }
-
-  .menu-icon {
-    display: block;
-  }
-
-  .btn {
-    width: 100%;
   }
 
   .top-wrapper {
