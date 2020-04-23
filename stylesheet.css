@@ -68,7 +68,7 @@ div {
 }
 /*end header*/
 
-/*top wrapper backgroudn*/
+/*top wrapper background*/
 .top-wrapper {
   top: 0px;
   padding: 180px 0 200px 0;
@@ -133,6 +133,7 @@ div {
 }
 /*end wrapper*/
 
+/*content*/
 .content {
   padding-bottom: 80px;
   padding-left: 5%;
@@ -162,3 +163,4 @@ div {
   width: 100%;
   color: white;
 }
+/*end content*/
