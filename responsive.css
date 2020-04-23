@@ -8,7 +8,7 @@
   .top-wrapper h1 {
     font-size: 32px;
   }
-  
+
   .top-wrapper h2 {
     font-size: 25px;
   }
@@ -21,11 +21,19 @@
 /* Untuk Smartphone */
 @media all and (max-width: 670px) {
   .benefit {
-    width: 5%;
+    width: 100%;
   }
 
   .header-right {
     display: none;
+  }
+
+  .menu-icon {
+    display: block;
+  }
+
+  .btn {
+    width: 50%;
   }
 
   .top-wrapper {
@@ -36,7 +44,7 @@
     font-size: 24px;
     line-height: 36px;
   }
-  
+
   .top-wrapper h2 {
     font-size: 20px;
   }
