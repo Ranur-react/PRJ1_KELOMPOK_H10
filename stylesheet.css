@@ -156,7 +156,6 @@ div {
 .benefit-icon img {
   width: 200px;
   height: 200px;
-  padding: 20px;
 }
 
 .benefit-icon {
@@ -165,7 +164,7 @@ div {
 
 .benefit-icon p {
   position: absolute;
-  top: 44%;
+  top: 60%;
   width: 50%;
   color: black;
 }
