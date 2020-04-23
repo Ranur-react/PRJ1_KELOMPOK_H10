@@ -1,6 +1,6 @@
 /* Untuk Tablet */
 @media all and (max-width: 1000px) {
-  .lesson {
+  .benefit {
     width: 50%;
     margin-bottom: 50px;
   }
@@ -20,7 +20,7 @@
 
 /* Untuk Smartphone */
 @media all and (max-width: 670px) {
-  .lesson {
+  .benefit {
     width: 50%;
   }
 
@@ -34,10 +34,6 @@
 
   .btn {
     width: 100%;
-  }
-
-  .facebook {
-    margin-bottom: 10px;
   }
 
   .top-wrapper {
