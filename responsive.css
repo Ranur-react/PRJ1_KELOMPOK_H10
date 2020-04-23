@@ -25,7 +25,7 @@
   }
 
   .header-right {
-    display: none;
+    display: block;
   }
 
   .menu-icon {
@@ -50,7 +50,8 @@
   }
   
     .top-wrapper h2 {
-    font-size: 20px;
+    font-size: 18px;
+    line-height: 36px;
   }
 
   .top-wrapper p {
