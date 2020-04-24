@@ -150,7 +150,7 @@ div {
 
 .benefit {
   float: left;
-  width: 50%;
+  width: 33%;
 }
 
 .benefit-icon img {
@@ -164,7 +164,7 @@ div {
 
 .benefit-icon p {
   position: absolute;
-  top: 80%;
+  top: 170px;
   width: 100%;
   color: black;
 }
