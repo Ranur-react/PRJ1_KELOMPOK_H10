@@ -4,9 +4,20 @@
     width: 33%;
     margin-bottom: 50px;
   }
+ .top-wrapper{
+  /*background-image: url('image/emile-perron-xrVDYZRGdw4-unsplash.jpg');*/
+  background-image: url('image/priscilla-du-preez-JZo6putklT0-unsplash.jpg');
+    
+  }
+  .top-container {
+    margin-top: 200px;
+  text-align: right;
+  padding: 0 15px;
 
+  }
   .top-wrapper h1 {
     font-size: 32px;
+
   }
 
   .top-wrapper h2 {
@@ -20,6 +31,21 @@
 
 /* Untuk Smartphone */
 @media all and (max-width: 670px) {
+  .top-wrapper{
+  background-image: url('image/emile-perron-xrVDYZRGdw4-unsplash.jpg');
+  /*background-image: url('image/priscilla-du-preez-JZo6putklT0-unsplash.jpg');*/
+    
+  }
+  .top-container {
+    /*margin-top: 2 00px;*/
+  text-align: center;
+  padding: 0 15px;
+
+  }
+  .top-container img{
+    width: 100px;
+    height: auto;
+  }
   .benefit {
     width: 100%;
   }
@@ -27,10 +53,11 @@
   .header-right {
     display: none;
   }
-
-  .menu-icon {
+  .menu-icon{
     display: block;
+
   }
+
 
   .btn {
     width: 50%;
