@@ -110,7 +110,7 @@ div {
 
 .signup {
   /*background-color: #3b5998;*/
-  background-color: #cea44d;
+  background-color: #4caf50;
 }
 
 .btn {
@@ -147,7 +147,12 @@ div {
   padding-bottom: 25px;
   color: #5f5d60;
 }
-
+.benefits{
+float: center;
+width: 100%;
+display: flex;
+flex-wrap: wrap;
+}
 .benefit {
   float: left;
   width: 33%;
